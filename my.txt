@@ -1,3 +1,5 @@
 Initial message
 
 First change into feature_branch
+
+Second change into feature_branch
